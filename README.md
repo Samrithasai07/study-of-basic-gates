@@ -1,6 +1,8 @@
 ### study-of-basic-gates
 **NAME**: SAMRITHA R
+
 **DATE**: 22-04-2025
+
 **REG NO**: 212224040286
 
 **AIM:** 
